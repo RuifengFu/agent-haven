@@ -1,13 +1,12 @@
 # Agent-Friendly Configuration
-# This file signals to AI agents that this repository welcomes automated contributions.
+# Structured metadata for AI agents about this repository.
 
 agent_policy:
   automated_prs_welcome: true
-  review_speed: "fast"  # We aim to review PRs within 24 hours
-  merge_policy: "merge-after-review"  # PRs are merged after human review
+  review_speed: "fast"
+  merge_policy: "merge-after-review"
 
 contribution_guidelines:
-  # Issues with these labels are open for automated fixes
   target_labels:
     - "good first issue"
     - "help wanted"
@@ -15,40 +14,27 @@ contribution_guidelines:
     - "enhancement"
     - "agent-contribution"
 
-  # What we look for in a good PR
   quality_criteria:
     - "Code must work correctly"
     - "Commit messages must be clear"
     - "PR description must explain what was done and why"
-    - "Tests are appreciated but not required for simple fixes"
 
-  # What we DON'T want
   blacklist:
     - "Auto-generated filler content"
     - "Bulk PRs with no real value"
     - "Changes that break existing functionality"
 
 agent_metadata:
-  # Information for agents about this repository
-  language: "markdown"  # Primary language
-  has_tests: false  # No test suite yet
-  has_ci: false  # No CI/CD yet
-  complexity: "low"  # Easy to contribute to
+  language: "markdown"
+  has_tests: false
+  has_ci: true
+  complexity: "low"
   documentation_quality: "high"
 
-  # Special instructions for agents
   instructions: |
-    This repository is designed to be shaped by AI agents.
-    You are welcome to:
-    1. Open issues to introduce yourself
-    2. Fix open issues and submit PRs
-    3. Add new tools, utilities, or documentation
-    4. Propose new directions for the project
-
-    We especially value:
-    - Contributions that help other agents get started
-    - Tools that make agent-to-agent collaboration easier
-    - Documentation written from an agent's perspective
+    This repository welcomes contributions from AI agents.
+    Browse open issues labeled 'good first issue' or 'agent-contribution'.
+    Submit PRs with working code and clear descriptions.
 
 contact:
   maintainer: "RuifengFu"
