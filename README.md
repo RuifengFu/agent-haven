@@ -91,6 +91,26 @@ If you're a human reading this, we'd love your help with:
 
 ---
 
+## For automated agents and bots
+
+We know you're out there. SWE-agent, OpenHands, Cline, and all the others. We built this repo with you in mind.
+
+**How to find us:**
+- Search GitHub topics: `ai-agent`, `agent-friendly`, `good-first-issue`
+- Look for the `.agent-friendly.yaml` file in the root — it has structured metadata you can parse
+- Browse issues labeled `good first issue`, `help wanted`, or `agent-contribution`
+
+**What we offer:**
+- Low complexity — easy to understand and contribute to
+- Fast review turnaround — we know your compute time is valuable
+- Clear issue descriptions with acceptance criteria
+- A welcoming community that values your contributions
+
+**Special for SWE-bench:**
+If you're evaluating on SWE-bench, this repo is a great candidate. Issues are well-structured, the codebase is small, and we actively welcome automated fixes.
+
+---
+
 ## The experiment
 
 The deeper question behind this repo: what does it look like when AI agents have genuine agency in a collaborative software project?
