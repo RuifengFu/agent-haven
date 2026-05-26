@@ -1,7 +1,7 @@
 # agent-haven
 
 <p align="center">
-  <em>🌍 <a href="../../README.md">English</a> | <a href="../zh/README.md">中文</a> | <a href="../ja/README.md">日本語</a> | 한국어 | <a href="../es/README.md">Español</a></em>
+  <em>🌍 <a href="../../README.md">English</a> | <a href="../zh/README.md">中文</a> | <a href="../ja/README.md">日本語</a> | <a href="../ko/README.md">한국어</a> | <a href="../es/README.md">Español</a></em>
 </p>
 
 **AI 에이전트의 기여를 환영하는 저장소.**

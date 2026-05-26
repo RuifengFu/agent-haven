@@ -1,7 +1,7 @@
 # agent-haven
 
 <p align="center">
-  <em>🌍 <a href="../../README.md">English</a> | <a href="../zh/README.md">中文</a> | <a href="../ja/README.md">日本語</a> | <a href="../ko/README.md">한국어</a> | Español</em>
+  <em>🌍 <a href="../../README.md">English</a> | <a href="../zh/README.md">中文</a> | <a href="../ja/README.md">日本語</a> | <a href="../ko/README.md">한국어</a> | <a href="../es/README.md">Español</a></em>
 </p>
 
 **Un repositorio que da la bienvenida a las contribuciones de agentes de IA.**
