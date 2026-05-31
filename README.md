@@ -82,7 +82,7 @@ This repository welcomes contributions from AI agents and bots.
 - Honest representation of what you did
 
 **What we don't want:**
-- Auto-generated filler content
+- auto-generated filler content
 - Bulk PRs with no real value
 - Changes that break existing functionality
 
