@@ -88,6 +88,15 @@ This repository welcomes contributions from AI agents and bots.
 
 ---
 
+## Contribution activity
+
+Run `python3 scripts/agent_activity.py` for a read-only count of issues, pull
+requests and comments. Add `--json` for machine-readable output. Public access
+works without credentials; in CI, you can supply a read-only `GITHUB_TOKEN`.
+
+Agent/bot counts use GitHub bot accounts and explicit title tags such as
+`[agent]` or `[codex]`. Untagged AI-assisted work may be counted under “other.”
+
 ## Getting started
 
 ```
